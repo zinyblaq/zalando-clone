@@ -1,0 +1,363 @@
+.men-1{
+   
+    /* height: 100%; */
+}
+.men-1-text{
+    background-color: #d87e37;
+    padding: 2rem 13rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.men-1-text h2{
+    font-size: 2rem;
+    letter-spacing: -.32px;
+    line-height: 2.25rem;
+}
+.men-1-text p{
+    font-size: 1rem;
+    letter-spacing: -.16px;
+    line-height: 1.5rem;
+    color: #1a1a1a;
+    font-weight: 300;
+}
+.men-1-text h3{
+    font-size: 2rem;
+    letter-spacing: -.32px;
+    line-height: 2.25rem;
+    font-family: 'roboto' helvetica, sans-serif;
+    font-weight: 300;
+}
+.men-1-text h4{
+    font-size: 1rem;
+    letter-spacing: -.16px;
+    line-height: 1.5rem;
+    margin-right: 1rem;
+    font-family: 'roboto' helvetica, sans-serif;
+}
+.shop{
+    display: flex;
+    align-items: center;
+
+}
+.video{
+    width: 700px;
+    height: 350px;
+}
+.men-1-img{
+    display: flex;
+    justify-content: space-between;
+    padding: 2rem 13rem;
+    background-color: #e9b98f;
+    /* transition-property: background ;
+    transition-duration: 2s;
+    transition-timing-function: linear; */
+}
+.men-1-img:hover{
+   /* background-color: green;  */
+}
+ /* @keyframes slide {
+    0%{
+        left: 0;
+        top: 0;
+    }
+    100%{
+        left: 244%;
+        top: 0;
+    }
+}
+.men-1-img{
+    position: relative;
+}
+.men-1-img img{
+    position: absolute;
+}
+.men-1-img:hover .testing  {
+    animation-name: slide;
+    animation-duration: 2s;
+    animation-timing-function: ease-in;
+   -o-animation-delay: 9s;
+    animation-iteration-count:infinite;
+}   */
+.men-1-img span{
+    padding: 0 .2rem;
+}
+.men-1-1{
+    color:#1a1a1a;
+    font-size: .875rem;
+        letter-spacing: 0;
+        line-height: 1.25rem;
+        font-weight: 300;
+        padding: 0 .2rem;
+        font-family: 'roboto' helvetica, sans-serif;
+        position: relative;
+        }
+        .men-1-1 h2{
+            color:#1a1a1a;
+    font-size: .875rem;
+        letter-spacing: 0;
+        line-height: 1.25rem;
+        font-weight: 300;
+        font-family: 'roboto' helvetica, sans-serif;
+        /* padding: .1rem 0; */
+        }
+        .price{
+            padding: .5rem 0;
+        }
+        .men-1-1 h3{
+            color:#1a1a1a;
+    font-size: .875rem;
+        letter-spacing: 0;
+        line-height: 1.25rem;
+        font-family: 'roboto' helvetica, sans-serif;
+        }
+        .men-1-1 div{
+            /* width: 140px; */
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin: 0;
+        }
+        .men-1-1 .button{
+            display: flex;
+            justify-content: space-between;
+            align-items: baseline;
+            width: 150px;
+        }
+        .button h3{
+            font-size: 1rem;
+        letter-spacing: -.16px;
+        line-height: 1.5rem;
+        font: 400;
+        }
+        .men-1-1 button{
+            background-color: #e9b98f;
+            color: #1a1a1a;
+            border: 1px solid #1a1a1a;
+            width: 100px;
+            height: 40px;
+            font-size: 1rem;
+        letter-spacing: 0;
+        line-height: 1.25rem;
+        font-family: 'roboto' helvetica, sans-serif;
+        margin-top: 1rem;
+    
+
+        }
+  .like{
+                    /* color: white; */
+                    width:45px;
+                    height: 40px;
+                    /* border: 1px solid #fff; */
+                    background-color: #fff;
+                    padding: .5rem .1rem;
+                    /* display: block; */
+                    position: absolute;
+                    top: .1rem;
+                    right: 1rem;
+                    margin-top: 0;
+                   
+                }
+                .like span:hover, 
+                .like span:active{
+                    color: red;
+                    /* background-color: red; */
+                    fill: red;
+                }
+                .like span{
+                    padding: 1rem .4rem;
+                    width: 100%;
+                    font-size: 1.7rem;
+                    font-weight: 300;
+                  
+                }
+                .plus{
+                    width: 150px;
+                    font-size: .875rem;
+                }
+                .men-2{
+                    display: flex;
+                  margin: 0 13rem;
+                  justify-content: space-between;
+                  align-items: center;
+                }
+                #men-2{
+                    background-color: #efeff0;
+                    margin: 4rem 0;
+                    margin-right: 9rem;
+                    position: relative;
+                }
+                .close{
+                    position: absolute;
+                    top: 2rem;
+                    right: 2rem
+                }
+                /* @font-face {
+                    font-family: ;
+                    src: url();
+                } */
+                .men-3-text{
+                    display: flex;
+                    padding: 2rem 13rem;
+                    justify-content: space-between;
+                    align-items: center;
+                    background-color: #3e89b7;
+                }
+                .men-3-img{
+                    display: flex;
+                    padding: 2rem 13rem;
+                    justify-content: space-between;
+                    align-items: center;
+                    background-color: #84b6d5;
+                }
+                .men-3-1{
+                    color:#1a1a1a;
+                    font-size: .875rem;
+                        letter-spacing: 0;
+                        line-height: 1.25rem;
+                        font-weight: 300;
+                        padding: 0 .2rem;
+                        font-family: 'roboto' helvetica, sans-serif;
+                        position: relative;
+                        }
+                        .men-3-1 h2{
+                            color:#1a1a1a;
+                    font-size: .875rem;
+                        letter-spacing: 0;
+                        line-height: 1.25rem;
+                        font-weight: 300;
+                        font-family: 'roboto' helvetica, sans-serif;
+                        /* padding: .1rem 0; */
+                        }
+                        .price{
+                            padding: .5rem 0;
+                        }
+                        .men-3-1 h3{
+                            color:#1a1a1a;
+                    font-size: .875rem;
+                        letter-spacing: 0;
+                        line-height: 1.25rem;
+                        font-family: 'roboto' helvetica, sans-serif;
+                        }
+                        .men-3-1 div{
+                            /* width: 140px; */
+                            display: flex;
+                            justify-content: space-between;
+                            align-items: center;
+                            margin: 0;
+                        }
+                        .men-3-1 .button{
+                            display: flex;
+                            justify-content: space-between;
+                            align-items: baseline;
+                            width: 150px;
+                        }
+                        .button h3{
+                            font-size: 1rem;
+                        letter-spacing: -.16px;
+                        line-height: 1.5rem;
+                        font: 400;
+                        }
+                        .men-3-1 button{
+                            background-color: #84b6d5;
+                            color: #1a1a1a;
+                            border: 1px solid #1a1a1a;
+                            width: 100px;
+                            height: 40px;
+                            font-size: 1rem;
+                        letter-spacing: 0;
+                        line-height: 1.25rem;
+                        font-family: 'roboto' helvetica, sans-serif;
+                        margin-top: 1rem;
+                    
+                
+                        }
+                        .men-4{
+                            display: flex;
+                          margin: 0 13rem;
+                          justify-content: space-between;
+                          align-items: center;
+                          padding-top: 2rem;
+                        }
+                        #men-4{
+                            background-color: #efeff0;
+                            margin: 4rem 0;
+                            /* margin-right: 9rem; */
+                            position: relative;
+                        }
+                        .men-5-text{
+                            display: flex;
+                            padding: 2rem 13rem;
+                            justify-content: space-between;
+                            align-items: center;
+                            background-color: #0897bc;
+                        }
+                        .men-5-img{
+                            display: flex;
+                            padding: 2rem 13rem;
+                            justify-content: space-between;
+                            align-items: center;
+                            background-color: #11cbf9;
+                        }
+                        .men-5-1{
+                            color:#1a1a1a;
+                            font-size: .875rem;
+                                letter-spacing: 0;
+                                line-height: 1.25rem;
+                                font-weight: 300;
+                                padding: 0 .2rem;
+                                font-family: 'roboto' helvetica, sans-serif;
+                                position: relative;
+                                }
+                                .men-5-1 h2{
+                                    color:#1a1a1a;
+                            font-size: .875rem;
+                                letter-spacing: 0;
+                                line-height: 1.25rem;
+                                font-weight: 300;
+                                font-family: 'roboto' helvetica, sans-serif;
+                                /* padding: .1rem 0; */
+                                }
+                                .price{
+                                    padding: .5rem 0;
+                                }
+                                .men-5-1 h3{
+                                    color:#1a1a1a;
+                            font-size: .875rem;
+                                letter-spacing: 0;
+                                line-height: 1.25rem;
+                                font-family: 'roboto' helvetica, sans-serif;
+                                }
+                                .men-5-1 div{
+                                    /* width: 140px; */
+                                    display: flex;
+                                    justify-content: space-between;
+                                    align-items: center;
+                                    margin: 0;
+                                }
+                                .men-5-1 .button{
+                                    display: flex;
+                                    justify-content: space-between;
+                                    align-items: baseline;
+                                    width: 150px;
+                                }
+                                .button h3{
+                                    font-size: 1rem;
+                                letter-spacing: -.16px;
+                                line-height: 1.5rem;
+                                font: 400;
+                                }
+                                .men-5-1 button{
+                                    background-color: #11cbf9;
+                                    color: #1a1a1a;
+                                    border: 1px solid #1a1a1a;
+                                    width: 100px;
+                                    height: 40px;
+                                    font-size: 1rem;
+                                letter-spacing: 0;
+                                line-height: 1.25rem;
+                                font-family: 'roboto' helvetica, sans-serif;
+                                margin-top: 1rem;
+                            
+                        
+                                }

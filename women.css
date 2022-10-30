@@ -1,0 +1,243 @@
+.women-1{
+    background-color: black;
+    /* height: 100%; */
+}
+.sephora{
+    margin: 1rem 13rem;
+    font-family: 'roboto' helvetica, sans-serif;
+    font-size: .875rem;
+    letter-spacing: 0;
+    line-height: 1.25rem;
+    font-weight: 300;
+}
+.women-1 div{
+    display: flex;
+justify-content: space-between;
+margin: 0 13rem;
+padding-top: 2rem;
+letter-spacing: -.32px;
+    line-height: 2.25rem;
+    color: #fff;
+    font-family: 'roboto' helvetica, sans-serif;
+     font-size: .875rem;
+    padding-top: 0;
+    align-items: center;
+    margin-top: 3rem;
+    padding-bottom: 3rem;
+}
+.women-1 div span h3{
+    color: #fff;
+}
+.section-1-1{
+    color:#fff;
+    font-size: .875rem;
+        letter-spacing: 0;
+        line-height: 1.25rem;
+        font-weight: 300;
+        padding: 0 .2rem;
+        font-family: 'roboto' helvetica, sans-serif;
+        position: relative;
+        }
+        .section-1-1 h2{
+            color:#fff;
+    font-size: .875rem;
+        letter-spacing: 0;
+        line-height: 1.25rem;
+        font-weight: 300;
+        font-family: 'roboto' helvetica, sans-serif;
+        /* padding: .1rem 0; */
+        }
+        .price{
+            padding: .5rem 0;
+        }
+        .section-1-1 h3{
+            color:#fff;
+    font-size: .875rem;
+        letter-spacing: 0;
+        line-height: 1.25rem;
+        font-family: 'roboto' helvetica, sans-serif;
+        }
+        .section-1-1 div{
+            width: 140px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin: 0;
+        }
+        .section-1-1 .button{
+            display: flex;
+            justify-content: space-between;
+            align-items: baseline;
+            width: 150px;
+        }
+        .button h3{
+            font-size: 1rem;
+        letter-spacing: -.16px;
+        line-height: 1.5rem;
+        font: 400;
+        }
+        .section-1-1 button{
+            background-color: black;
+            color: #fff;
+            border: 1px solid #fff;
+            width: 100px;
+            height: 40px;
+            font-size: 1rem;
+        letter-spacing: 0;
+        line-height: 1.25rem;
+        font-family: 'roboto' helvetica, sans-serif;
+        margin-top: 1rem;
+    
+        }
+        #women-2{
+            background-color: rgb(236, 235, 235);
+            margin: 3rem 0;
+            position: relative;
+        }
+        .women-2{
+            display: flex;
+            justify-content: space-between;
+            /* margin-top: 1rem; */
+            align-items: center;
+            padding: 4rem 12rem;
+        }
+        .close{
+            position: absolute;
+            top: 2rem;
+            right: 2rem
+        }
+        .women-3-1{
+            background-color: #a2a3a9;
+            padding: 0 13rem;
+            margin-top: 2rem;
+        }
+
+        .women-3-2{
+            background-color: #e6e6e8;
+            padding: 0 13rem;
+            position: relative;
+            /* margin-top: 0; */
+        }
+      
+        /* .sephora{
+            margin: 1rem 13rem;
+            font-family: 'roboto' helvetica, sans-serif;
+            font-size: .875rem;
+            letter-spacing: 0;
+            line-height: 1.25rem;
+            font-weight: 300;
+        } */
+        .women-3 div{
+            display: flex;
+        justify-content: space-between;
+        /* margin: 0 13rem; */
+        padding-top: 1rem;
+        letter-spacing: -.32px;
+            line-height: 2.25rem;
+            color: #1a1a1a;
+            font-family: 'roboto' helvetica, sans-serif;
+             font-size: .9rem;
+            /* padding-top: 3rem; */
+            align-items: center;
+            /* margin-top: 3rem; */
+            /* padding-bottom: 3rem; */
+            
+        }
+        .women-3 div span h3{
+            color: #1a1a1a;
+        }
+        .women-3-2-1 img{
+            position: relative;
+        }
+        .women-3-2-1{
+            color:#1a1a1a;
+            font-size: .875rem;
+                letter-spacing: 0;
+                line-height: 1.25rem;
+                font-weight: 300;
+                padding: 0 .2rem;
+                font-family: 'roboto' helvetica, sans-serif;
+                position: relative;
+                }
+                .women-3-2-1 h2{
+                    color:#1a1a1a;
+            font-size: .875rem;
+                letter-spacing: 0;
+                line-height: 1.25rem;
+                font-weight: 300;
+                font-family: 'roboto' helvetica, sans-serif;
+                /* padding: .1rem 0; */
+                }
+                .price{
+                    padding: .5rem 0;
+                }
+                .women-3-2-1 h3{
+                    color:#1a1a1a;
+            font-size: .875rem;
+                letter-spacing: 0;
+                line-height: 1.25rem;
+                font-family: 'roboto' helvetica, sans-serif;
+                }
+                .women-3-2-1 div{
+                    /* width: 140px; */
+                    display: flex;
+                    justify-content: space-between;
+                    align-items: center;
+                    margin: 0;
+                }
+                .women-3-2-1 .button{
+                    display: flex;
+                    justify-content: space-between;
+                    align-items: baseline;
+                    width: 150px;
+                }
+                .button h3{
+                    font-size: 1rem;
+                letter-spacing: -.16px;
+                line-height: 1.5rem;
+                font: 400;
+                }
+                .women-3-2-1 button{
+                    background-color: #e6e6e8;
+                    color: #1a1a1a;
+                    border: 1px solid #fff;
+                    width: 100px;
+                    height: 40px;
+                    font-size: 1rem;
+                letter-spacing: 0;
+                line-height: 1.25rem;
+                font-family: 'roboto' helvetica, sans-serif;
+                margin-top: 1rem;
+                }
+                .w-like{
+                    /* color: white; */
+                    color: black;
+                    width:45px;
+                    height: 40px;
+                    /* border: 1px solid #fff; */
+                    background-color: #fff;
+                    padding: .5rem .1rem;
+                    /* display: block; */
+                    position: absolute;
+                    bottom: .1rem;
+                    right: 1rem;
+                    margin-top: 0;
+                   
+                }
+                .like span:hover, 
+                .like span:active{
+                    color: red;
+                    /* background-color: red; */
+                    fill: red;
+                }
+                .like span{
+                    padding: 1rem .4rem;
+                    width: 100%;
+                    font-size: 1.7rem;
+                    font-weight: 300;
+                    color: black;
+                  
+                }
+                .plus{
+                    width: 140px;
+                }
